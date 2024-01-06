@@ -1,5 +1,11 @@
-# 401-Reading-Notes
-Reading assignments for the 401 Code Fellows Course
+# Reading Notes
+
+## 401-Reading-Notes
+- [Class 01 Strategic Policy Development]()
+- [Class 02 Cloud Security Principles and Frameworks]()
+- [Class 03 Cyber Risk Analysis]()
+- [Class 04 Systems Hardening with CIS Standards]()
+- [Class 06 Data file encryption]()
 
 
 ## Previous Class Reading Notes 
