@@ -10,8 +10,8 @@
 # Module 02 Data Security
 - [Class 06 - Data file encryption](https://github.com/Wrbaur/401-Reading-Notes/wiki/Class-06-Reading-Notes)
 - [Class 07 Protecting Data at Rest with Device Encryption](https://github.com/Wrbaur/401-Reading-Notes/wiki/Class-07-Reading-Notes)
-- [Class 08 Data Loss Prevention and Data Classification](    )
-- [Class 09 Public Key Infrastructure (PKI)](     )
+- [Class 08 Data Loss Prevention and Data Classification](https://github.com/Wrbaur/401-Reading-Notes/wiki/Class-08-Reading-Notes)
+- [Class 09 Public Key Infrastructure (PKI)](https://github.com/Wrbaur/401-Reading-Notes/wiki/Class-09-Reading-Notes)
 
 # Module 03 Security Operations
 
