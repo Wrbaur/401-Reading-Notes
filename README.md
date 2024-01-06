@@ -1,7 +1,7 @@
 # Reading Notes
 
 ## 401-Reading-Notes
-- [Class 01 Strategic Policy Development]()
+- [Class 01 Strategic Policy Development](https://github.com/Wrbaur/401-Reading-Notes/wiki/Class-01-Reading-Notes)
 - [Class 02 Cloud Security Principles and Frameworks]()
 - [Class 03 Cyber Risk Analysis]()
 - [Class 04 Systems Hardening with CIS Standards]()
