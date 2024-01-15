@@ -14,9 +14,14 @@
 - [Class 09 Public Key Infrastructure (PKI)](https://github.com/Wrbaur/401-Reading-Notes/wiki/Class-09-Reading-Notes)
 
 # Module 03 Security Operations
-
+- [Class 11 - Setting up splunk SIEM](https://github.com/Wrbaur/401-Reading-Notes/wiki/Class-11-Reading-notes)
+- [Class 12 - Log Analysis with Splunk](https://github.com/Wrbaur/401-Reading-Notes/wiki/Class-12-Reading-Notes)
+- [Class 13 - Reconstructing a Cloud Attack with Splunk](https://github.com/Wrbaur/401-Reading-Notes/wiki/Class-13-Reading-Notes)
+- [Class 14 - Intrusion Detection and Prevention Systems (IDS/IPS)](https://github.com/Wrbaur/401-Reading-Notes/wiki/Class-14-Reading-Notes)
+  
 # Module 04 Cloud Security 
-
+- [Class 16 - Cloud Identity and Access Management](https://github.com/Wrbaur/401-Reading-Notes/wiki/Class-16-Reading-Notes)
+  
 # Midterm
 
 # Module 06 Threat Modeling and Analysis
