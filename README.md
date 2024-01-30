@@ -21,7 +21,7 @@
   
 # Module 04 Cloud Security 
 - [Class 16 - Cloud Identity and Access Management](https://github.com/Wrbaur/401-Reading-Notes/wiki/Class-16-Reading-Notes)
-  
+- [Class 17 - Cloud Network Security](https://github.com/Wrbaur/401-Reading-Notes/wiki/Class-17-Reading-Notes) 
 # Midterm
 
 # Module 06 Threat Modeling and Analysis
