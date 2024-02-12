@@ -26,9 +26,14 @@
 - [Class 19 - Cloud Detective Controls](https://github.com/Wrbaur/401-Reading-Notes/wiki/Class-19-Reading-Notes)
 
 # Midterm
-
+- [D.E.E.P. Impact - Midterm](https://github.com/D-E-E-P-Impact)
+  
 # Module 06 Threat Modeling and Analysis
-
+- [Class 26 Remote Code Execution](https://github.com/Wrbaur/401-Reading-Notes/wiki/Class-26-Reading-Notes)
+- [Class 27 Persistence](https://github.com/Wrbaur/401-Reading-Notes/wiki/Class-27-Reading-Notes)
+- [Class 28 Log Clearing](https://github.com/Wrbaur/401-Reading-Notes/wiki/Class-28-Reading-Notes)
+- [Class 29 Modeling a Web Application](https://github.com/Wrbaur/401-Reading-Notes/wiki/Class-29-Reading-Notes)
+  
 # Module 07 Threat Hunting
 
 # Module 08 Web Application Security 
