@@ -35,6 +35,9 @@
 - [Class 29 Modeling a Web Application](https://github.com/Wrbaur/401-Reading-Notes/wiki/Class-29-Reading-Notes)
   
 # Module 07 Threat Hunting
+- [Class 31 Malware Detection with YARA Rules](https://github.com/Wrbaur/401-Reading-Notes/wiki/Class-31-Reading-notes)
+
+
 
 # Module 08 Web Application Security 
 
