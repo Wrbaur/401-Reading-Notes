@@ -37,7 +37,8 @@
 # Module 07 Threat Hunting
 - [Class 31 Malware Detection with YARA Rules](https://github.com/Wrbaur/401-Reading-Notes/wiki/Class-31-Reading-notes)
 - [Class 32 Malware Traffic Analysis with Wireshark](https://github.com/Wrbaur/401-Reading-Notes/wiki/Class-32-Reading-Notes)
-
+- [Class 33 Threat Hunting with Security Onion](https://github.com/Wrbaur/401-Reading-Notes/wiki/Class-33-Reading-Notes)
+- [Class 34 Forensics Investigation with Autopsy](https://github.com/Wrbaur/401-Reading-Notes/wiki/Class-34-Reading-Notes)
 
 # Module 08 Web Application Security 
 
