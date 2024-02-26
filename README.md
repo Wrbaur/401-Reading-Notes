@@ -41,6 +41,7 @@
 - [Class 34 Forensics Investigation with Autopsy](https://github.com/Wrbaur/401-Reading-Notes/wiki/Class-34-Reading-Notes)
 
 # Module 08 Web Application Security 
+- [Class 36 XSS with w3af, DVWA](https://github.com/Wrbaur/401-Reading-Notes/wiki/Class-36-Reading-Notes)
 
 # Module 09 Penetration Testing
 
