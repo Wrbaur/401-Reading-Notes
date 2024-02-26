@@ -44,7 +44,7 @@
 - [Class 36 XSS with w3af, DVWA](https://github.com/Wrbaur/401-Reading-Notes/wiki/Class-36-Reading-Notes)
 - [Class 37 Automated AppSec with ZAP](https://github.com/Wrbaur/401-Reading-Notes/wiki/Class-37-Reading-Notes)
 - [Class 38 Attacking Juice Shop with Burp Suite](https://github.com/Wrbaur/401-Reading-Notes/wiki/Class-38-Reading-Notes)
-
+- [Class 39 SQLi with Burp Suite, WebGoat](https://github.com/Wrbaur/401-Reading-Notes/wiki/Class-39-Reading-Notes)
 
 # Module 09 Penetration Testing
 
