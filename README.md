@@ -47,6 +47,8 @@
 - [Class 39 SQLi with Burp Suite, WebGoat](https://github.com/Wrbaur/401-Reading-Notes/wiki/Class-39-Reading-Notes)
 
 # Module 09 Penetration Testing
+- [Class 41 Reconnaissance](https://github.com/Wrbaur/401-Reading-Notes/wiki/Class-41-Reading-Notes)
+
 
 # Final Project
 
