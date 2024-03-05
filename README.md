@@ -48,7 +48,7 @@
 
 # Module 09 Penetration Testing
 - [Class 41 Reconnaissance](https://github.com/Wrbaur/401-Reading-Notes/wiki/Class-41-Reading-Notes)
-
+- [Class 42 Pass the Has with Mimikats](https://github.com/Wrbaur/401-Reading-Notes/wiki/Class-42-Reading-Notes)
 
 # Final Project
 
