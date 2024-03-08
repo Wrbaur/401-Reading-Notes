@@ -50,7 +50,8 @@
 - [Class 41 Reconnaissance](https://github.com/Wrbaur/401-Reading-Notes/wiki/Class-41-Reading-Notes)
 - [Class 42 Pass the Hash with Mimikats](https://github.com/Wrbaur/401-Reading-Notes/wiki/Class-42-Reading-Notes)
 - [Class 43 Sniffing and evasion](https://github.com/Wrbaur/401-Reading-Notes/wiki/Class-43-Reading-Notes)
-
+- [Class 44 Exploitation with Metasploit](https://github.com/Wrbaur/401-Reading-Notes/wiki/Class-44-Reading-Notes)
+  
 # Final Project
 
 ## Previous Class Reading Notes 
